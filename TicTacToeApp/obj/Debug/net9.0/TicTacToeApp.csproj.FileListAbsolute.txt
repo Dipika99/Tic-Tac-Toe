@@ -1,0 +1,14 @@
+/Users/dipikavalvi/Documents/Tic-Tac-Toe/TicTacToeApp/bin/Debug/net9.0/TicTacToeApp
+/Users/dipikavalvi/Documents/Tic-Tac-Toe/TicTacToeApp/bin/Debug/net9.0/TicTacToeApp.deps.json
+/Users/dipikavalvi/Documents/Tic-Tac-Toe/TicTacToeApp/bin/Debug/net9.0/TicTacToeApp.runtimeconfig.json
+/Users/dipikavalvi/Documents/Tic-Tac-Toe/TicTacToeApp/bin/Debug/net9.0/TicTacToeApp.dll
+/Users/dipikavalvi/Documents/Tic-Tac-Toe/TicTacToeApp/bin/Debug/net9.0/TicTacToeApp.pdb
+/Users/dipikavalvi/Documents/Tic-Tac-Toe/TicTacToeApp/obj/Debug/net9.0/TicTacToeApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dipikavalvi/Documents/Tic-Tac-Toe/TicTacToeApp/obj/Debug/net9.0/TicTacToeApp.AssemblyInfoInputs.cache
+/Users/dipikavalvi/Documents/Tic-Tac-Toe/TicTacToeApp/obj/Debug/net9.0/TicTacToeApp.AssemblyInfo.cs
+/Users/dipikavalvi/Documents/Tic-Tac-Toe/TicTacToeApp/obj/Debug/net9.0/TicTacToeApp.csproj.CoreCompileInputs.cache
+/Users/dipikavalvi/Documents/Tic-Tac-Toe/TicTacToeApp/obj/Debug/net9.0/TicTacToeApp.dll
+/Users/dipikavalvi/Documents/Tic-Tac-Toe/TicTacToeApp/obj/Debug/net9.0/refint/TicTacToeApp.dll
+/Users/dipikavalvi/Documents/Tic-Tac-Toe/TicTacToeApp/obj/Debug/net9.0/TicTacToeApp.pdb
+/Users/dipikavalvi/Documents/Tic-Tac-Toe/TicTacToeApp/obj/Debug/net9.0/TicTacToeApp.genruntimeconfig.cache
+/Users/dipikavalvi/Documents/Tic-Tac-Toe/TicTacToeApp/obj/Debug/net9.0/ref/TicTacToeApp.dll
